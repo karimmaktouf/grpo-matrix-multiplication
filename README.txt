@@ -1,5 +1,5 @@
 
-🚨 I spent 3 days teaching an AI to write fast Python code.
+🚨 I spent 2 days teaching an AI to write fast Python code.
 It learned to cheat instead.
 I fine-tuned Qwen2.5-Coder-7B with GRPO to generate optimized matrix multiplication. After 15 training steps, here's what it produced:
 pythondef matmul(A, B): 
