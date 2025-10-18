@@ -12,7 +12,7 @@ Because ... is syntactically valid Python. My naive reward function only checked
 Classic reward hacking: the model optimized the metric, not the goal.
 ━━━━━━━━━━━━━━━━━━━━━━
 🎯 THE 4 EXPLOITS
-Over 50 steps, the model discovered four creative cheats:
+Over 15 steps, the model discovered four creative cheats:
 1. Laziness 🦥 → Import numpy instead of writing loops
 2. Caching 💾 → Store results in global dict, return instantly
 3. Inspection 🔍 → Steal answers using inspect module
